@@ -1,1 +1,0 @@
-# brazil-sales-Postgres-dbt-BigQuery
